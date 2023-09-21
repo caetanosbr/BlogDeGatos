@@ -30,4 +30,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/Fotoblog/)
+[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/BlogDeGatos/)
